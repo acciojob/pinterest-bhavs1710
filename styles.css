@@ -2,20 +2,24 @@
 .hero{
 	display:flex;
 }
+.image{
+	object-fit:cover;
+}
 .text{
 	margin-left:30px;
 	margin-top:30px;
 	margin-bottom:60px;
 	padding-bottom:40px;
 	text-align:center;
-	font-size:10px;
-	width:200px;
+	font-size:19px;
+	width:300px;
+	font-decoration:bold;
 }
 .text2{
 	text-align:center;
-	width:200px
+	width:300px
 }
-.button{
+.a{
 	background-color:red;
 	color:white;
 }
