@@ -2,7 +2,7 @@
 .hero{
 	display:flex;
 }
-.image{
+.p1{
 	object-fit:cover;
 }
 .text{
@@ -19,7 +19,9 @@
 	text-align:center;
 	width:300px
 }
-.a{
-	background-color:red;
-	color:white;
+.fcc-btn {
+  background-color: red;
+  color: white;
+  padding: 10px 5px;
+  text-decoration: none;
 }
